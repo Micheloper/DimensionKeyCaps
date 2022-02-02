@@ -1,0 +1,33 @@
+h3 {
+  color: aliceblue;
+  text-align: center;
+}
+h2 {
+  color: aliceblue;
+  text-align: center;
+}
+.card-title {
+  color: aliceblue;
+  font-size: 1em;
+}
+.card-text {
+  color: aliceblue;
+  font-size: 1em;
+}
+p,
+span,
+h4 {
+  color: white;
+  font-size: 17px;
+}
+
+@media only screen and (min-width: 600px) {
+  .containerItemDetail {
+    height: 100vh;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .containerItemDetail {
+    height: 100vh;
+  }
+}
