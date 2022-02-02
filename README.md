@@ -1,6 +1,6 @@
 # 🎨 Layout
 
-<img src="https://firebasestorage.googleapis.com/v0/b/dimensionkeycaps.appspot.com/o/Dimension%20Key%20Caps%20-%20GIF.gif?alt=media&token=2786d548-17a6-4d11-9394-61ed7c9ec9e8"  />
+<img alt="Dimension Keycaps" title="#Dimension Keycaps" src="./src/assets/Dimension Key Caps - GIF.gif" />
 
 # 💻 Sobre o projeto
 
