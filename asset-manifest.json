@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/DimensionKeyCaps/static/css/main.ab841386.chunk.css",
+    "main.js": "/DimensionKeyCaps/static/js/main.d9214909.chunk.js",
+    "main.js.map": "/DimensionKeyCaps/static/js/main.d9214909.chunk.js.map",
+    "runtime-main.js": "/DimensionKeyCaps/static/js/runtime-main.c383f9d8.js",
+    "runtime-main.js.map": "/DimensionKeyCaps/static/js/runtime-main.c383f9d8.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/DimensionKeyCaps/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.67c6e06f.chunk.js": "/DimensionKeyCaps/static/js/2.67c6e06f.chunk.js",
+    "static/js/2.67c6e06f.chunk.js.map": "/DimensionKeyCaps/static/js/2.67c6e06f.chunk.js.map",
+    "static/js/3.4db0a867.chunk.js": "/DimensionKeyCaps/static/js/3.4db0a867.chunk.js",
+    "static/js/3.4db0a867.chunk.js.map": "/DimensionKeyCaps/static/js/3.4db0a867.chunk.js.map",
+    "index.html": "/DimensionKeyCaps/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/DimensionKeyCaps/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.ab841386.chunk.css.map": "/DimensionKeyCaps/static/css/main.ab841386.chunk.css.map",
+    "static/js/2.67c6e06f.chunk.js.LICENSE.txt": "/DimensionKeyCaps/static/js/2.67c6e06f.chunk.js.LICENSE.txt",
+    "static/media/Item.scss": "/DimensionKeyCaps/static/media/bg.ec4964a8.svg",
+    "static/media/ItemDetail.scss": "/DimensionKeyCaps/static/media/bg2.ae386e69.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c383f9d8.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.67c6e06f.chunk.js",
+    "static/css/main.ab841386.chunk.css",
+    "static/js/main.d9214909.chunk.js"
+  ]
+}
